@@ -8,6 +8,8 @@
 ![Charles](https://img.shields.io/badge/Charles-FCB3FF?style=for-the-badge&logo=Charles&logoColor=6CFFF3)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-6073FF?style=for-the-badge&logo=Android%20Studio&logoColor=30FF37)
 ![JSON](https://img.shields.io/badge/JSON-C7C7CD?style=for-the-badge&logo=JSON&logoColor=000000)
+![XML](https://img.shields.io/badge/XML-EA971E?style=for-the-badge&logo)
+![REST API](https://img.shields.io/badge/REST%20API-01B5E6?style=for-the-badge)
 ![DevTools](https://img.shields.io/badge/DevTools-0081F3?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F7F7F7?style=for-the-badge&logo=PostgreSQL&logoColor=31648C)
 ![Linux](https://img.shields.io/badge/Linux-EEB613?style=for-the-badge&logo=Linux&logoColor=020204)
